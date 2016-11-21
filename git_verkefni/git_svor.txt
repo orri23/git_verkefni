@@ -40,6 +40,8 @@ Repository er skrá eða staður þar sem saga vinnu þinnar er geymt.
 Til dæmis þegar einhver önnur deild í fyrirtækinu sem þú vinnur hjá þurfa að þínum skrám á að halda,
 þá getur þú notað branch til þess að búa til önnur afrit af því. 
 =======
+Kristófer Orri
+
 Git spurningar og svör
 
 >>>>>>> 22ae4450e3bbbd4ba71e15f3d77dc85fc2aa9f59
