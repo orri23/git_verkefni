@@ -28,7 +28,7 @@ Gerir þér kleift að búa til greinar til að prófa kóða með. Gerir þér 
 Þú getur séð hvað þú og eða samstarfsmaður þinn er búinn að vera að gera nýlega.
 
 6. spurning. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-Eins oft og mögulegt er, því meiri upplýsingar eru, því betra í þessu máli.
+Eins oft og mögulegt er, því meiri upplýsingar eru, því betra, í þessu máli þar að segja.
 
 7. spurning. Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 Working directory er directory með upprunalegu file-um þínum undir 'stjórn' git.
