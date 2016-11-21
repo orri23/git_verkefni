@@ -8,11 +8,12 @@ Við tengjumst Windows servernum í gegnum VirtualBox og þarf alltaf að vera o
 Bjuggum til user "orri" (ég) og gáfum honum password ((Pa$$word) sem er commonly notað í WIN áföngum.) í computer management 
 
 Dagur 3 - Miðvikudagur
-Ég configure-aði Windows Server 2012 R2 sem router. 
+Ég configure-aði Windows Server 2012 R2 sem router. Downloaduðum linux server inná virtualboxið.
 
 Dagur 4 - Fimmtudagur
 Komst að því í dag að það ætti að klára alveg að gera git verkefnið, þar sem ég á að útskýra hvað linux skipanir gera og svo framvegis. Komið langt á veg. 
 
 Dagur 5 - Föstudagur
+Subnettað ip töluna. 
 
 Dagur 6 - 21.11.16 - Mánudagur
