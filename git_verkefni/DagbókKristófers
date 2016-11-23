@@ -20,8 +20,9 @@ Dagur 6 - 21.11.16 - Mánudagur
 Settum upp Windows 8 Client. Tengdum hann við Windows serverinn. Tengdum Linux við serverinn.
 
 Dagur 7 - Þriðjudagur
-WINDOWS remote access tala: 10.220.239.71 í 639
-WINDOWS 8.1 remote access tala: 10.220.239.91 í stofu 639
+WINDOWS remote access tala: 10.220.239.71 í 639, 10.220.237.84 í 637
+WINDOWS 8.1 remote access tala: 10.220.239.91 í stofu 639 
+
 
 Dagur 8 - Miðvikudagur
 Sett upp DHCP, bæði fyrir windows og linux. 
