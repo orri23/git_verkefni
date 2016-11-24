@@ -34,4 +34,4 @@ við pingað útan við (t.d. mbl.is)
 Vorum að pæla hvort það væri fýsilegt að fara gera VPN eða gera static NAT svo að linux serverinn sé nothæfur. 
 
 Dagur 9 - Fimmtudagur
- 
+ Configuraði DHCP. Serverinn úthlutar rétta ip tölu fyrir netið.
