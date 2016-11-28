@@ -31,7 +31,8 @@ kleift að logga sig inná windows 8 í gegnum remote access.
 Meðal annars með því að adda þeim í Remote desktop users, adda WIN8 tölvunni og WIn servernum í remote desktop users líka.
 Re-configuruðum windows server 2012 í routing og remote access, vegna þess að Network_Linux interface-ið vantaði, og nú getum 
 við pingað útan við (t.d. mbl.is) 
-Vorum að pæla hvort það væri fýsilegt að fara gera VPN eða gera static NAT svo að linux serverinn sé nothæfur. 
+Vorum að pæla hvort það væri fýsilegt að fara gera VPN eða gera static NAT svo að linux serverinn sé nothæfur.
+Configure-uðum NAT. 
 
 Dagur 9 - Fimmtudagur
  Configuraði DHCP. Serverinn úthlutar rétta ip tölu fyrir netið.
