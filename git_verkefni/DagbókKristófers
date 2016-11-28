@@ -41,4 +41,5 @@ Dagur 10 - Föstudagur
 Kynnti mér VPN og set það upp þegar ég kemst inná serverinn. (Þarf Kjartan fyrir virtualbox)
 
 Dagur 11 - Mánudagur 28.11.2016
-Deployaði firefox fyrir alla usera. Installaði telnet til þess að við erum að reyna að fara inná AD user í gegnum Ubuntu linux serverinn.    
+Reyndi deploya firefox group policy fyrir alla usera í hópi 1 og 2 en denya það fyrir hóp 3 en festist á því,
+en það er smá error, spyr Abdel. Installaði telnet til þess að við erum að reyna að fara inná AD user í gegnum Ubuntu linux serverinn.    
