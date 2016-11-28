@@ -25,3 +25,6 @@ við pingað útan við (t.d. mbl.is)
 
 Dagur 9 - Fimmtudagur
  Configuraði DHCP. Serverinn úthlutar rétta ip tölu fyrir netið.
+
+Dagur 11 - Mánudagur
+Tengdi Linux vélina við Active Directory hjá Windows Server
