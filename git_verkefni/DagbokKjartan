@@ -1,1 +1,27 @@
+Dagur 1 - 14.11.2016 - Mánudagur
+Í dag var sett up GitHub --> Við downloaduðum windows server 2012. Við pinguðum saman virtual vélarnar svo við báðir getum fengið aðgang og unnið á remote access. 
+Planið er að búa til local user, gefa honum reikning(account) með lykilorði og gera honum kleift að hafa aðgang að server-num. Configure-a windows server 2012.
 
+Dagur 2 - Þriðjudagur
+Við tengjumst Windows servernum í gegnum VirtualBox og þarf alltaf að vera opið svo við getum loggað inná remote access. Þurftum að download windows servernum aftur af því við komumst ekki í sömu tölvur og fyrr. Allow-uðum í gegnum Firewall svo Kristofer gæti loggað líka inná remote access.
+
+Dagur 3 - Miðvikudagur
+Downloaduðum linux server inná virtualboxið.
+
+Dagur 4 - Fimmtudagur
+Gerði Git verkefnið.
+
+Dagur 5 - Föstudagur
+Subnettað ip töluna fyrir linux og windows serverana. 
+
+Dagur 6 - 21.11.16 - Mánudagur
+Settum upp Windows 8 Client. Tengdum hann við Windows serverinn. Tengdum Linux við serverinn.
+
+Dagur 8 - Miðvikudagur
+Sett upp DHCP, bæði fyrir windows og linux.  
+kleift að logga sig inná windows 8 í gegnum remote access.
+Re-configuruðum windows server 2012 í routing og remote access, vegna þess að Network_Linux interface-ið vantaði, og nú getum 
+við pingað útan við (t.d. mbl.is) 
+
+Dagur 9 - Fimmtudagur
+ Configuraði DHCP. Serverinn úthlutar rétta ip tölu fyrir netið.
