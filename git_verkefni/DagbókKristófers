@@ -52,17 +52,18 @@ en það fer ekki í gegn einhvern vegin. Ég er að reyna þó og ég ætla að
 
 
 Dagur 13 - Miðvikudagur
-Deployaði firefox group policy. Hópur 1 og 2 geta notað firefox en bannaði hópi 3 að fara inná firefox þannig ég deployaði
+Deployaði firefox group policy, þetta reddaðist með því að pathið á msi file-inum þurfti að vera á network. Hópur 1 og 2 geta notað firefox en bannaði hópi 3 að fara inná firefox þannig ég deployaði
 google chrome fyrir hóp 3 en bannaði hópi 1 og 2 að fara inná chrome svo þetta sé nú sanngjarnt :). Bjó til Quota. 
 
 Dagur 14 - Fimmtudagur 
 Var í tveim hlutaprófum í WINDOWS í dag, sem er eini tölvutíminn hjá mér á fimmtudögum og það tók upp allan tímann.
 
 
-Dagur 15 - Föstudagur
+Dagur 15 - Föstudagur 2.12.2016
 Við þurftum að breyta Domain nafninu úr kristofer_kjartan í kristoferkjartan vegna þess að linux tekur ekki við undirstriki ' _ ' 
 svo að linux serverinn/vélin geti joinað domainið. Þannig allt í Active Directory eyðilagðist og þar af leiðandi þurfti ég að setja allt 
 upp aftur, OU's, hópana, userana, group policies, tengja userana við windows 8 þannig þeir geta loggað inná þá. Ég bjó til firefox og chrome 
 í gegnum group policy og fá hóparnir 3 mismunandi réttindi á þá browsera með prevent firefox og prevent chrome group policy. 
 Ég bjó til group policy sem heita (H share(Hópur 1), K share (Hópur 2), T share (Hópur 3) og Z share (Fyrir alla)) sem gefur 
-userum í hverjum hóp kleift að sér svæði fyrir sinn hóp. Og hvert share er með mismunandi disk space(quota)
+userum í hverjum hóp kleift að hafa sér svæði fyrir sinn hóp. Og hvert share er með mismunandi disk space(quota). 
+Ég einnig setti upp prentara fyrir hvern hóp og einn prentara sem allir hafa aðgang að.   
