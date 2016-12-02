@@ -21,7 +21,7 @@ Dagur 8 - Miðvikudagur
 Sett upp DHCP, bæði fyrir windows og linux.  
 kleift að logga sig inná windows 8 í gegnum remote access.
 Re-configuruðum windows server 2012 í routing og remote access, vegna þess að Network_Linux interface-ið vantaði, og nú getum 
-við pingað útan við (t.d. mbl.is) 
+við pingað útan við (t.d. mbl.is) Settum upp RIP.
 
 Dagur 9 - Fimmtudagur
  Configuraði DHCP. Serverinn úthlutar rétta ip tölu fyrir netið.
@@ -34,3 +34,11 @@ Reyna að laga active directory, lesa meira um hvernig á að tengja Ubuntu við
 
 Dagur 13 - Miðvikudagur
 Halda áfram með að finna hverig á að tengja við active directory
+
+Dagur 14 - Fimmtudagur
+Þurfti að breyta nafninu á active directory til að tengja Linux við Windows Server. 
+
+Dagur 15 - Föstudagur
+LOKADAGUR!!!!
+
+
