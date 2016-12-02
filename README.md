@@ -28,8 +28,8 @@ Fyrir Windows 8 þá settum við upp Group Policy svo að við getum sett upp re
 
 ###Stillingar
 
-Serverinn hefur þrjár netsnúrur, ein sem fer á netið í gegnum bridged connection, annar fyrir Windows vélina og hina fyrir Linux. 
-Linux og WIndows vélin báðar hafa eina snúru sem tengist á serverinn.
+Serverinn hefur þrjár netsnúrur, ein sem fer á netið í gegnum bridged connection, annar fyrir Windows vélina og hina fyrir Linux.      
+Linux og WIndows vélin báðar hafa eina snúru sem tengist á serverinn.         
 
 ##Credits
 
