@@ -23,7 +23,7 @@ Við vildum setja upp Windows server og tengja Windows 8 vél við hana, síðan
 subnettuðum 172.31.0.0 Network þannig að subnet maskinn væri /26 og Windows 8 fengi frá .0 til 63 og Linux fengi .64 til .127. 
 Við settum upp DHCP þannig að DHCP sér um að dreyfa út tölum. Settum upp DNS. Settum upp RIP svo að tölvunar tengdar við serverinn geta 
 tengt við internetið.
-Fyrir Windows 8 þá settum við upp Group Policy svo að við getum sett upp reglur á notendur.
+Fyrir Windows 8 þá settum við upp Group Policy (firefox, chrome, shares) svo að við getum sett upp reglur á notendur. Við bjuggum til group policy líka sem heitir (H share) sem gefur userum kleift að hafa sér svæði fyrir sig og hóp sem mappast sem H - Þar inn á eru folder fyrir alla, svo síðan folder fyrir hvern hóp, þannig að t.d. að user úr hópi 3 getur lesið en ekki breytt/skrifað neinu í folderum fyrir hópa 1 og 2. Einnig bættum við prenturum fyrir hvern hóp sem hinir hóparnir geta ekki farið inn á og líka prentara fyrir alla
 Á Ubuntu eigum við að tengjast við Active Directory á Windows Serverinum
 
 ###Stillingar
