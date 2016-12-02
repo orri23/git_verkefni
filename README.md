@@ -35,7 +35,7 @@ Linux og WIndows vélin báðar hafa eina snúru sem tengist á serverinn.
 
 ###Höfundar
 
-Kjartan Már Andersen
+Kjartan Már Andersen\n
 Kristófer Orri Guðmundsson
 
 
