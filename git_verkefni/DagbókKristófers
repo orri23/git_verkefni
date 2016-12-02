@@ -44,7 +44,7 @@ Kynnti mér VPN og set það upp þegar ég kemst inná serverinn. (Þarf Kjarta
 
 Dagur 11 - Mánudagur 28.11.2016
 Reyndi deploya firefox group policy fyrir alla usera í hópi 1 og 2 en denya það fyrir hóp 3 en festist á því,
-en það er smá error, spyr Abdel. Installaði telnet til þess að við erum að reyna að fara inná AD user í gegnum Ubuntu linux serverinn.
+en það er smá error, spyr Abdel. 
 
 Dagur 12 - Þriðjudagur
 Reyndi að deploya firefox group policy með Abdel í 2 klst en fundum ekkert út úr því, group policy er eitthvað að gera
@@ -64,6 +64,5 @@ Við þurftum að breyta Domain nafninu úr kristofer_kjartan í kristoferkjarta
 svo að linux serverinn/vélin geti joinað domainið. Þannig allt í Active Directory eyðilagðist og þar af leiðandi þurfti ég að setja allt 
 upp aftur, OU's, hópana, userana, group policies, tengja userana við windows 8 þannig þeir geta loggað inná þá. Ég bjó til firefox og chrome 
 í gegnum group policy og fá hóparnir 3 mismunandi réttindi á þá browsera með prevent firefox og prevent chrome group policy. 
-Ég bjó til group policy sem heitir (H share) sem gefur 
-userum kleift að hafa svæði sem mappast sem H - Þar inn á eru folder fyrir alla, svo síðan folder fyrir hvern hóp, þannig að t.d.
-user úr hópi 3 getur lesið en ekki breytt/skrifað neinu í folderum fyrir hópa 1 og 2. 
+Ég bjó til group policy sem heita (H share(Hópur 1), K share (Hópur 2), T share (Hópur 3) og Z share (Fyrir alla)) sem gefur 
+userum í hverjum hóp kleift að sér svæði fyrir sinn hóp. Og hvert share er með mismunandi disk space(quota)
