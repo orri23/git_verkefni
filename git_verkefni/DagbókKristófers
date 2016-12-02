@@ -57,3 +57,12 @@ google chrome fyrir hóp 3 en bannaði hópi 1 og 2 að fara inná chrome svo þ
 
 Dagur 14 - Fimmtudagur 
 Var í tveim hlutaprófum í WINDOWS í dag, sem er eini tölvutíminn hjá mér á fimmtudögum og það tók upp allan tímann.
+
+
+Dagur 15 - Föstudagur
+Við þurftum að breyta Domain nafninu úr kristofer_kjartan í kristoferkjartan vegna þess að linux tekur ekki við undirstriki ' _ '
+þannig Active Directory eyðilagðist og þar af leiðandi þurfti ég að setja allt upp aftur, OU's, hópana, userana, group policies,
+tengja userana við windows 8 þannig þeir geta loggað inná þá. Ég bjó til firefox og chrome í gegnum group policy og fá hóparnir 3 mismunandi
+réttindi á þá browsera með prevent firefox og prevent chrome group policy. Bjó til group policy sem heitir (H share) sem gefur 
+userum kleift að hafa svæði sem mappast sem H - Þar inn á eru folder fyrir alla, svo síðan folder fyrir hvern hóp, þannig að t.d.
+user úr hópi 3 getur lesið en ekki breytt/skrifað neinu í folderum í hópum 1 og 2. 
