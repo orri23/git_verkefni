@@ -28,8 +28,6 @@ tengt við internetið. Fyrir Windows 8 þá settum við upp Group Policy (firef
 
 Serverinn hefur þrjár netsnúrur, ein sem fer á netið í gegnum bridged connection, annar fyrir Windows vélina og hina fyrir Linux. Linux og Windows vélin báðar hafa eina snúru sem tengist á serverinn.         
 
-##Credits
-
 ###Höfundar
 
 Kjartan Már Andersen                    
